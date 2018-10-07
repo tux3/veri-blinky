@@ -1,0 +1,6 @@
+# In
+set_io CLK_16MHZ B2
+set_io RESETN A2 -pullup yes # TinyFPGA BX's pin 1, to be shorted w/ GND through some 1kΩ scrap metal
+
+# Out
+set_io LED B3

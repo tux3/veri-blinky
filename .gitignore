@@ -1,0 +1,5 @@
+project/*/aldec/
+project/*/*_Implmnt/
+project/*/stdout.log
+project/*/stdout.log.bak
+
